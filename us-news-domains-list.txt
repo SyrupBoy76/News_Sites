@@ -1,3 +1,24 @@
+www.msn.com
+assets.msn.com
+c.msn.com
+t.msn.com
+s0.2mdn.net
+az416426.vo.msecnd.net
+Additional Domains:
+weather.service.msn.com
+nexus.officeapps.live.com
+edge.activity.windows.com
+ntp.msn.com
+ntp.msn.cn
+ntp.msn.de
+ntp.msn.co.jp
+
+
+
+
+
+
+
 10nbc.com
 10news.com
 11alive.com
