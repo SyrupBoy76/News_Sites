@@ -1,4 +1,4 @@
-www.msn.com
+msn.com
 assets.msn.com
 c.msn.com
 t.msn.com
