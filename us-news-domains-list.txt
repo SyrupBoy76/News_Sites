@@ -765,7 +765,7 @@ cljnews.com
 clreporter.com
 cnbc.com
 cnjonline.com
-cnn.com
+www.cnn.com
 cnsnews.com
 cnyvision.com
 coalvalleynews.com
