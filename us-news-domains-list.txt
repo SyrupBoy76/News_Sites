@@ -1,16 +1,3 @@
-msn.com
-assets.msn.com
-c.msn.com
-t.msn.com
-s0.2mdn.net
-az416426.vo.msecnd.net
-weather.service.msn.com
-nexus.officeapps.live.com
-edge.activity.windows.com
-ntp.msn.com
-ntp.msn.cn
-ntp.msn.de
-ntp.msn.co.jp
 10nbc.com
 10news.com
 11alive.com
@@ -217,6 +204,7 @@ asianjournalusa.com
 asianreporter.com
 aspendailynews.com
 aspentimes.com
+assets.msn.com
 atascaderonews.com
 atchisonglobenow.com
 athensmessenger.com
@@ -246,6 +234,7 @@ avenuenews.com
 avoyellestoday.com
 avpress.com
 axios.com
+az416426.vo.msecnd.net
 azcapitoltimes.com
 azcentral.com
 azdailysun.com
@@ -500,9 +489,11 @@ butlercountytimesgazette.com
 butlercountytribune.com
 butlereagle.com
 buzzfeed.com
+buzzfeednews.com
 byronreviewonline.com
 c-bstatesman.com
 c-span.org
+c.msn.com
 cabinet.com
 caboolenterprise.com
 cadillacnews.com
@@ -1168,6 +1159,7 @@ ecmpostreview.com
 ecmpublishers.com
 economist.com
 ecprogress.com
+edge.activity.windows.com
 edgefieldadvertiser.com
 edgertonenterprise.com
 edmondsun.com
@@ -1390,7 +1382,6 @@ fox27.com
 fox28.com
 fox2840.com
 fox28tv.com
-fox29.com
 fox29.com
 fox29tv.com
 fox2detroit.com
@@ -2641,6 +2632,7 @@ mediaite.com
 mediamatters.org
 mediapost.com
 medina-gazette.com
+medios1.com
 melrosebeacon.com
 memphisdailynews.com
 memphisdemocrat.com
@@ -2821,6 +2813,7 @@ msbusiness.com
 msgr.com
 msjnews.com
 msmagazine.com
+msn.com
 msn.com/en-us/news
 msnbc.com
 mt-peaks.com
@@ -3069,6 +3062,7 @@ newtondailynews.com
 newtownbee.com
 newyorkbeacon.net
 newyorker.com
+nexus.officeapps.live.com
 nganews.com
 nhbr.com
 nhgazette.com
@@ -3082,7 +3076,6 @@ nichibei.org
 niemanlab.org
 nikkeiwest.com
 niobraratribune.com
-nj.com
 nj.com
 njbiz.com
 njeffersonnews.com
@@ -3141,6 +3134,10 @@ nptelegraph.com
 nrcolumbus.com
 nrtoday.com
 nsjonline.com
+ntp.msn.cn
+ntp.msn.co.jp
+ntp.msn.com
+ntp.msn.de
 ntxe-news.com
 nuevosiglo.com
 nuggetnews.com
@@ -3738,6 +3735,7 @@ rustonleader.com
 rutherfordreader.com
 rutlandherald.com
 rvpnews.com
+s0.2mdn.net
 sabethaherald.com
 sabinetoday.com
 sacbee.com
@@ -4135,6 +4133,7 @@ syossetjerichotribune.com
 syracuse.com
 syvnews.com
 t-g.com
+t.msn.com
 tacomadailyindex.com
 tacomaweekly.com
 taftindependent.com
@@ -4803,6 +4802,7 @@ twin-citynews.com
 twincities.com
 twincitytimes.com
 twinvalleytimes.com
+twistity.com
 twitchy.com
 tworivertimes.com
 twptimes.com
@@ -5037,6 +5037,7 @@ wdsu.com
 wdtimes.com
 wdtn.com
 weartv.com
+weather.service.msn.com
 weatherforddemocrat.com
 weau.com
 webbweekly.com
@@ -5141,8 +5142,8 @@ whitewaterpub.com
 whittierdailynews.com
 whizamfmtv.com
 whnt.com
-whotv.com
 who13.com
+whotv.com
 whsv.com
 whtm.com
 whvoice.com
@@ -5192,6 +5193,7 @@ wiscassetnewspaper.com
 wiscnews.com
 wisconsinrapidstribune.com
 wise33.com
+wisedime.com
 wishtv.com
 wisn.com
 wistv.com
